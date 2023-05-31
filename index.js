@@ -130,4 +130,4 @@ function findPotentialMatches(userId, callback) {
     console.log(`server started on port  ${port}`);
   }); 
 
-  //http://localhost:3001/potential-matches/1
+  //http://localhost:3001/match/1
